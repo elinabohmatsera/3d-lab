@@ -1,8 +1,8 @@
 # 3d-lab
-Laboratory works on 3D modelling (KHNUE, 2026, 4th year)
+Laboratory works on 3D modelling (KHNUE, 2026, 4th year).
 Це навчальний репозиторій для виконання
 лабораторних робіт.
 ## Лабораторна робота №1
-Тема: Основи роботи з GitHub.
+Тема: Основи роботи з GitHub
 ## Автор
 Богмацера Еліна
